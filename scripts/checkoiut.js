@@ -41,7 +41,7 @@ function renderOrderSummary(){
         const dateString=deliveryDate.format(
             'dddd, MMMM D'
         );
-        console.log(dayjs)
+        
         
 
 
